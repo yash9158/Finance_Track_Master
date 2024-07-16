@@ -2,7 +2,7 @@
 
 ## Personal Finance Tracker
 
-FinTrack is web-based personal finance tracking Tool developed for participating in Microsoft GitHub Copilot Hackathon.
+FinTrack is web-based personal finance tracking Tool.
 
 # Hosted Link : https://fin-track-five.vercel.app/
 
@@ -29,7 +29,3 @@ FinTrack is web-based personal finance tracking Tool developed for participating
 - ### Expense Page
   - Expense page shows information about Total Expense and expense categories and Monthly Charts of Expense category wise
     ![alt text](https://github.com/ashok020/FinTrack/blob/master/Screenshots/expense%20page.png?raw=true)
-
-## License
-
-MIT
